@@ -202,3 +202,21 @@ header img {
     font-size: 2em;
   }
 }
+
+@media only screen and (max-width: 300px) {
+  .logo {
+    font-size: 1em;
+  }
+
+  .text h2 {
+    font-size: 2em;
+  }
+
+  .text h3 {
+    font-size: 1em;
+  }
+
+  .text p {
+    font-size: 1em;
+  }
+}

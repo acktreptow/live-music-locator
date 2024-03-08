@@ -1,8 +1,6 @@
 # Live Music Locator Video Homepage
 
-I wanted to create a non-scrolling homepage that used video as its background, and music was the perfect medium to gain this experience.
-
-So welcome to Live Music Locator! A fictional company that finds musical artists performing in your area.
+Welcome to Live Music Locator! A fictional company that finds musical artists performing in your area.
 
 ## Technologies Used:
 
@@ -13,6 +11,8 @@ So welcome to Live Music Locator! A fictional company that finds musical artists
 - Photoshop (for the logo)
 
 ## Project Overview
+
+The goal of this project was to create a non-scrolling homepage that used video as its background. and music was the perfect medium to gain this experience.
 
 The non-scrolling homepage uses CSS properties like flexbox, position relative/absolute and JS on the hamburger menu to create the modern UX experience these layouts are known for.
 

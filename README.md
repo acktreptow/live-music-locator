@@ -4,11 +4,11 @@ Welcome to Live Music Locator! A fictional company that finds musical artists pe
 
 ## Technologies Used:
 
-- HTML
-- CSS
 - JavaScript
+- CSS
 - Premiere Pro
-- Photoshop (for the logo)
+- Photoshop
+- HTML
 
 ## Project Overview
 

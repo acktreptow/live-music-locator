@@ -34,7 +34,7 @@ To run the project locally, follow these steps:
 
 ## Future Enhancements
 
-There's extra functionality I could add. For example, creating pages for the li elements in the navbar. While this would be a nice feature, it's a low priority as the main goal of the project was accomplished.
+The main goal of the project was accomplished and so there will be no major updates.
 
 ## Contact
 

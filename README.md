@@ -12,13 +12,9 @@ Welcome to Live Music Locator! A fictional company that finds musical artists pe
 
 ## Project Overview
 
-The goal of this project was to create a non-scrolling homepage that used video as its background. and music was the perfect medium to gain this experience.
+The goal of this project was to create a non-scrolling homepage that used video as its background. I achieved this via CSS properties like flexbox and position relative/absolute. JavaScript was also applied to the hamburger menu to create the modern UX these layouts are known for.
 
-The non-scrolling homepage uses CSS properties like flexbox, position relative/absolute and JS on the hamburger menu to create the modern UX experience these layouts are known for.
-
-It was however the video background that made this project particularly rewarding to complete, as I got to utilize my video production skills to bring my vision to the viewport.
-
-I wanted a montage of four-second clips that showcased musicians from different genres, different types of venues, and have specific video effects depending on the clip. Obviously, something with these exact specifications doesn't exist, so I edited the video myself using the Premiere Pro skills I developed at my previous job as a video producer.
+LML was also a personally rewarding project to complete, as I got to utilize my video production skills to create my vision. I wanted a montage of four-second clips that showcased musicians from different genres in different types of venues. Obviously, video with these exact specifications doesn't exist, so I edited the video myself using the Premiere Pro skills I developed at my previous job as a video producer.
 
 I also de-saturated the video and coded the CSS in a way that the user could easily add their own color as an overlay to suit their tastes. I personally went for a warmer white balance that gives the background a more natural 'pop', but doesn't make the white text ineligible.
 

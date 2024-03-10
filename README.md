@@ -16,9 +16,9 @@ The goal of this project was to create a non-scrolling homepage that used video 
 
 LML was also a personally rewarding project to complete, as I got to utilize my video production skills to create my vision. I wanted a montage of four-second clips that showcased musicians from different genres in different types of venues. Obviously, video with these exact specifications doesn't exist, so I edited the video myself using the Premiere Pro skills I developed at my previous job as a video producer.
 
-I also de-saturated the video and coded the CSS in a way that the user could easily add their own color as an overlay to suit their tastes. I personally went for a warmer white balance that gives the background a more natural 'pop', but doesn't make the white text ineligible.
+I also de-saturated the video and coded the CSS in a way that the user could add their own color overlay to suit their tastes. I personally went for a warmer white balance that gives the background a more natural 'pop', but doesn't make the white text ineligible.
 
-This was a fun experience and I look forward to whenever I can implement video in future projects. Although the applications used are different, the creative thought process of translating your vision to the screen is very much the same!
+Overall, this was a very fun project to work on. Although the coding and video editing are different skills, the creative process of translating your vision to the screen is very much the same!
 
 ## Installation
 
